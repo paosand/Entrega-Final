@@ -1,0 +1,8 @@
+id	Nombre	Categoría	Precio		Cantidad	Total
+12234 	Natalia 	Director 	     345 		7 	2415
+12345 	paola 	asro 	    3456 		3 	10368
+9808 	Alejandro 	Dev 	     500 		2 	1000
+9808 	Tatis 	Dev 	     500 		2 	1000
+6789 	andres 	PM 	   45678 		1 	45678
+
+Valor total del inventario: $ 60461

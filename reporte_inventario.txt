@@ -1,0 +1,13 @@
+id	Nombre	Categoría	Precio		Cantidad	Total
+1 	pablo 	juguete 	132455667 		2 	264911334
+2 	Paola 	Analista 	 9000000 		2 	18000000
+3 	sandra 	estudiante 	32456760 		1 	32456760
+4 	sandra 	profesional 	32456760 		1 	32456760
+5 	Julia 	Desempleada 	 4000000 		3 	12000000
+6 	Regino 	desarrollo 	 3400000 		2 	6800000
+7 	Jesus 	Juguete 	13221323 		2 	26442646
+8 	Jaime 	Desarrollo 	30000000 		5 	150000000
+9 	jorge 	analista 	     123 		10 	1230
+10 	jose 	games 	   65000 		1 	65000
+
+Valor total del inventario: $ 543133730
